@@ -33,7 +33,7 @@ I'm a passionate coder and software developer with a love for crafting elegant a
 
 🌱 I'm here on GitHub to share my work, learn from others, and collaborate on exciting projects. I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out, discuss ideas, or just have a chat about all things code!
 
-📫 You can contact me through my [email](mailto:joychristo0@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/christo-joy-varghese/).
+📫 [Send me an email](mailto:joychristo0@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/christo-joy-varghese/).
 
 Happy coding! 🚴‍♂️
 
